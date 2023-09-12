@@ -1,7 +1,7 @@
 // ==UserScript==
-// @name         hello world
+// @name         xiaofei
 // @namespace    http://tampermonkey.net/
-// @version      0.3
+// @version      0.1
 // @description  这是一个脚本demo
 // @author       xiaofei
 // @license      MIT
