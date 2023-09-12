@@ -13,5 +13,5 @@
 (function() {
     'use strict';
 
-    console.log('Hello xiaofei!');
+    console.log('Hello xiaofei!!');
 })();
