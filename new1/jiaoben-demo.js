@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         hello world
 // @namespace    http://tampermonkey.net/
-// @version      0.2
+// @version      0.3
 // @description  这是一个脚本demo
 // @author       xiaofei
 // @license      MIT
@@ -13,5 +13,5 @@
 (function() {
     'use strict';
 
-    console.log('Hello  new world!');
+    console.log('Hello xiaofei!');
 })();
