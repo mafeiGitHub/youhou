@@ -13,6 +13,6 @@
 (function() {
     'use strict';
 
-    console.log('Hello xiaofei!!');
+    console.log('nihao!!');
     console.log('我的第一个脚本！');
 })();
