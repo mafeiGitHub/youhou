@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         xiaofei
 // @namespace    http://tampermonkey.net/
-// @version      0.4
+// @version      0.5
 // @description  这是一个脚本demo
 // @author       xiaofei
 // @license      GPL License
@@ -17,4 +17,5 @@
     console.log('我的第一个脚本！');
     console.log('我的脚本第三版！');
     console.log('我的脚本第四版！');
+    console.log('我的脚本第5版！');
 })();
