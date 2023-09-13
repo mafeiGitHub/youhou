@@ -21,11 +21,9 @@
     // console.log('我的脚本第四版！');
     // console.log('我的脚本第5版！');
     // console.log('我的脚本第6版！');
-    alert('111')
-    let ele = document.getElementsByClassName('s_ipt nobg_s_fm_focus');
-    
-    console.log(ele);
-
-    ele.value="asdasd"
+    console.log(uid);
+    if (uid) {
+        setInterval(function() {document.location.reload()}, 2000)
+    }
     
 })();
