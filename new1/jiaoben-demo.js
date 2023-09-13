@@ -6,6 +6,7 @@
 // @author       xiaofei
 // @license      GPL License
 // @match             *://*.bilibili.com/*
+// @match             *://*.google.com/*
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=bilibili.com
 // @grant        none
 // ==/UserScript==
