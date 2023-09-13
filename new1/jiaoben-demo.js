@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         xiaofei
 // @namespace    http://tampermonkey.net/
-// @version      0.6
+// @version      0.7
 // @description  这是一个脚本demo
 // @author       xiaofei
 // @license      GPL License
@@ -13,10 +13,14 @@
 (function() {
     'use strict';
 
-    console.log('nihao!!');
-    console.log('我的第一个脚本！');
-    console.log('我的脚本第三版！');
-    console.log('我的脚本第四版！');
-    console.log('我的脚本第5版！');
-    console.log('我的脚本第6版！');
+    // console.log('nihao!!');
+    // console.log('我的第一个脚本！');
+    // console.log('我的脚本第三版！');
+    // console.log('我的脚本第四版！');
+    // console.log('我的脚本第5版！');
+    // console.log('我的脚本第6版！');
+    alert('111')
+    let ele = document.getElementById('logo');
+    console.log(ele);
+    ele.style.background="https://www.baidu.com/img/flexible/logo/pc/result.png"
 })();
