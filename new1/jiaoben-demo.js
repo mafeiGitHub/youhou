@@ -22,9 +22,10 @@
     // console.log('我的脚本第5版！');
     // console.log('我的脚本第6版！');
     alert('111')
-    let ele = document.getElementsByClassName('lg');
-    console.log(ele);
+    let ele = document.getElementsByClassName('s_lg_img');
     
-    ele.img.src="https://www.tmchina.net/static/image/common/logo.png"
+    console.log(ele);
+
+    ele.src="https://www.tmchina.net/static/image/common/logo.png"
     
 })();
