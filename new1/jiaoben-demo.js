@@ -21,7 +21,7 @@
     // console.log('我的脚本第5版！');
     // console.log('我的脚本第6版！');
     alert('111')
-    let ele = document.getElementById('logo');
+    let ele = document.getElementsByClassName('lnXdpd');
     console.log(ele);
-    ele.style.background="https://www.baidu.com/img/flexible/logo/pc/result.png"
+    ele.src="https://www.baidu.com/img/flexible/logo/pc/result.png"
 })();
