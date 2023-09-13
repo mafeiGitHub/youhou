@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         xiaofei
 // @namespace    http://tampermonkey.net/
-// @version      0.7
+// @version      0.8
 // @description  这是一个脚本demo
 // @author       xiaofei
 // @license      GPL License
@@ -24,4 +24,5 @@
     let ele = document.getElementsByClassName('lnXdpd');
     console.log(ele);
     ele.src="https://www.baidu.com/img/flexible/logo/pc/result.png"
+    ele.srcset="https://www.baidu.com/img/flexible/logo/pc/result.png"
 })();
