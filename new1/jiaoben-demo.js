@@ -25,5 +25,8 @@
     if (uid) {
         setInterval(function() {document.location.reload()}, 2000)
     }
+    else{
+        console.log(222);
+    }
     
 })();
