@@ -24,6 +24,7 @@
     alert('111')
     let ele = document.getElementsByClassName('lg');
     console.log(ele);
+    
     ele.img.src="https://www.tmchina.net/static/image/common/logo.png"
     
 })();
