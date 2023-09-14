@@ -5,7 +5,7 @@
 // @description  这是一个脚本demo
 // @author       xiaofei
 // @license      GPL License
-// @match        *://*.bbs.tampermonkey.net.cn//*
+// @match        https://bbs.tampermonkey.net.cn/*
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=bilibili.com
 // @grant        none
 // ==/UserScript==
