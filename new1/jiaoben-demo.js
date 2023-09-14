@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         xiaofei
 // @namespace    http://tampermonkey.net/
-// @version      1.1
+// @version      1.2
 // @description  这是一个脚本demo
 // @author       xiaofei
 // @license      GPL License
