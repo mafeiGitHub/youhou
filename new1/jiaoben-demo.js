@@ -11,7 +11,7 @@
 // ==/UserScript==
 
 (function () {
-  "use strict";
+  "use strict"; 
 
     let CityChangeOnce = false;
     document.querySelector("#residedistrictbox").addEventListener("DOMNodeInserted", (e) => {
