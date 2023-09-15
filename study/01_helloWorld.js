@@ -5,6 +5,7 @@
 // @description  try to take over the world!
 // @author       You
 // @match        https://bbs.tampermonkey.net.cn/
+// @license      MIT
 // @grant        none
 // ==/UserScript==
 
