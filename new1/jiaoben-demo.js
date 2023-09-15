@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         xiaofei
 // @namespace    http://tampermonkey.net/
-// @version      1.4
+// @version      1.5
 // @description  这是一个脚本demo
 // @author       xiaofei
 // @license      GPL License
@@ -30,5 +30,5 @@
           }
     })
     observer.observe(document.querySelector('#residedistrictbox'),{childList:true,addedNotes:true})
-
+//aa
 })();
