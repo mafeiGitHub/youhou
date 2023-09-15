@@ -2,7 +2,7 @@
 // @name         01_hello world
 // @namespace    http://tampermonkey.net/
 // @version      0.1
-// @description  try to take over the world!
+// @description  弹出一个hello world框！
 // @author       You
 // @match        https://bbs.tampermonkey.net.cn/
 // @license      GPL License
